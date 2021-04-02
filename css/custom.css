@@ -1,0 +1,64 @@
+.border-left-ss {
+    border-left: 1px solid #dedede;
+}
+
+ul.inner-list li a {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+
+
+.sets {
+    float: left;
+    position: absolute;
+    display: none;
+}
+
+.sets {
+   
+    display: none;
+}
+
+.setss{
+   float: left;
+   display: none;
+}
+
+
+.show-xs {
+    background: #e32a53;
+    padding: 15px 5px;
+    color: #fff;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    display: none;
+}
+
+.show-xs a{
+	color: #fff;
+}
+.show-xs a:hover, .show-xs a:active
+{
+	color: #000;
+}
+
+.show-xs .fa {
+    font-size: 22px;
+}
+.show-xs i.flaticon-shopping191 {
+    font-size: 20px;
+}
+
+img.img-responsive.set-under {
+    filter: brightness(0.5);
+}
+
+.prod-box {
+    border: 1px solid #00000061;
+    box-shadow: 0px 1px 4px #491414ad;
+    height: 345px;
+}
